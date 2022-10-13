@@ -1,15 +1,15 @@
 ###  Hi, I’m @corkspork 👋
 
-#### I've been a Software Engineer for 8 years. Based in the United Kingdom 🇬🇧
+#### I'm a Software Engineer for 8+ years. Based in the UK 🇬🇧
 
-#### 🌱 I’m currently learning ...
+#### 🌱 Currently learning ...
 
 - ✨ Solidity and Web3 technologies
 - 🔥 Solidity Security
 
-#### 💞️ I’m looking to collaborate on ...
+#### 💞️ Looking to collaborate on ...
 
-- Part-time contracts working on Solidity or Web3 Projects
+- Freelance working on Solidity or Web3 Projects
 
 #### 🧑‍🏫 I’m an expert in in ...
 
@@ -27,4 +27,3 @@
 #### 📫 How to reach me ...
 
 Mail: corkspork@pm.me
-CryptoDevs Discord: @corkspork
